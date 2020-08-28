@@ -7,9 +7,6 @@
     
 }
 
-.head{
-    
-}
 
 .img{
     text-align: center;
@@ -22,6 +19,7 @@ ul{
 }
 ul li{
     display: inline;
+    margin-left: 59px;
 
 }
 
@@ -45,13 +43,14 @@ li a{
     margin-top: 160px;
     color: #f1f1f1;
     text-align: center;
-    font-size:19;
+    font-size:19px;
+    text-shadow: 2px 2px 2px red;
 }
 .showcase h1{
     text-align: center;
     word-spacing: 3px;
     font-size: 33px;
-    color: white;
+    color: greenyellow;
     animation-name: bt;
     animation-direction: reverse;
     animation-duration: 2s;
@@ -81,7 +80,7 @@ footer{
     animation-name: bt;
     animation-direction: reverse;
     animation-duration: 2s;
-    animation-iteration-count: 3;
+    animation-iteration-count: 2;
     transition: 2s all;
 }
 
@@ -134,10 +133,7 @@ footer{
 
 }
 
-audio{
-    padding: 20px;
-    border: none;
-}
+
 h3{
     text-align: center;
     color: #fff;
@@ -162,7 +158,7 @@ background: linear-gradient( rgba(0,0,0,0.8),rgba(0,0,0,0.9) ),url(images/wallus
 background-repeat: no-repeat;
 background-size: cover;
 background-position:center;
-height: 90v;
+/* height: 90vw; */
 }
 video{
     padding: 12px;
@@ -177,7 +173,6 @@ video{
     animation-name: b;
     animation-direction: reverse;
     animation-duration: 2s;
-    animation-iteration-count: 3;
     transition: 2s all;
 }
 
@@ -190,15 +185,81 @@ video{
 
 @keyframes b{
     0%{
-       transform: rotateX(90deg); 
+       transform: rotateX(180deg); 
     }
 
     50%{
-        transform: rotateY(90deg);
+        transform: rotateY(180deg);
         color: green;
     }
     100%{
-        transform: rotateZ(90deg);
+        transform: rotateZ(180deg);
         color: #111;
     }
+}
+
+/* last butotn */
+#load{
+    border: none;
+    background: red;
+    color: #fff;
+    position: absolute;
+    position: fixed;
+    right: 1px;
+    top: 553px;
+    padding: 18px;
+    border-radius: 8px;
+}
+#load:hover{
+    background: crimson;
+    color: #111;
+    transition: 1s all;
+}
+h3{
+    font-family: monospace;
+    color:#000;
+    text-shadow: 1px 1px 1px #fff;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+/* the bio text */
+.bio{
+    color: #fff;
+    text-align: end;
+    float: right;
+    width: 40vw;
+    margin-top: 93px;
+
+  
+}
+.bio{
+
+    padding: 8px;
+    color: #fff;
+    animation-name: bio;
+    animation-direction: normal;
+    animation-iteration-count: 1;
+    animation-duration: 2s;
+    transition: 2s all;
+    position: relative;
+    animation-fill-mode: forwards;
+    transition: 3s;
+    line-height: 22px;
+    font-size: 18px;
+    word-spacing: 12px;
+}
+
+
+@keyframes bio{
+    0%{
+     
+       left: -2000px; 
+    }
+
+    100%{
+  
+     left:  0;
+    }
+   
 }
