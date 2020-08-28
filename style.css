@@ -144,9 +144,11 @@ h3{
 
 .vid{
     background: #000;
-    color: red;
+    color:#111;
     text-align: center;
     font-size: 30px;
+    text-shadow: 2px 2px 2px crimson;
+    padding: 29px;
 
 }
 .vids{
@@ -161,7 +163,7 @@ background-position:center;
 /* height: 90vw; */
 }
 video{
-    padding: 12px;
+    padding: 72px;
 }
 
 .bt{
@@ -247,6 +249,7 @@ h3{
     transition: 3s;
     line-height: 22px;
     font-size: 18px;
+    animation-iteration-count: 2;
     word-spacing: 12px;
 }
 
