@@ -1,22 +1,16 @@
-// function playj1(){
-//     let lion = new Audio("http://188.138.16.150/p.php?s=eNoBQAC%252F%252F4%252B9%252FyYnSnfgqhRTqbH3HRc7OYNvtXZF9PDUJWIv4VHJPLJ4kqLav792lOLj36zLmcl7Ysxla1xUjJkVsbSwn3RNFSMT");
-// lion.play();
-
-
-
 function playl(){
-    let lion = new Audio('http://188.138.16.150/p.php?s=eNoBQAC%252F%252F4%252B9%252FyYnSnfgqhRTqbH3HRc7OYNvtXZF9PDUJWIv4VHJPLJ4kqLav792lOLj36zLmcl7Ysxla1xUjJkVsbSwn3RNFSMT');
+    let lion = new Audio("video/johnny_rain_harveston_lake_mp3_58333.mp3");
 lion.play();
 }
 
 function playl2(){
-    let lion = new Audio('http://188.138.57.98/p.php?s=eNoBOADH%252Fyos0AYySzK0IbqWVW0fXVBTBkVVmjZgsuuLiESNZEdXK5nWkJnm9%252BhTK%252FYOhyPIvZnOCxfkhrM0jB0ZSA%253D%253D');
+    let lion = new Audio('video/johnny_rain_oakland_ting_808_and_patron_mp3_58374.mp3');
 lion.play();
 }
 
 
 function playl3(){
-    let lion = new Audio('http://85.25.74.135/p.php?s=eNoBUACv%252F77o%252BBL6wRoIqKZ4Zb0f13bJpYIWxLoMguQK0cGI5GetEJFTdSkQhADmhAemKYe0l9TEPYUGoGxvcv85TV6g0FrOyBRygjaWf9mm1C0eQaB9iIgoCw%253D%253D');
+    let lion = new Audio("video/johnny_rain_ten_mp3_58354.mp3");
 lion.play();
 }
 
@@ -40,18 +34,18 @@ window.location.reload(true);
 
 
 function playl4(){
-    let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBSAC3%252F2lIXksOWhO2mCxkz25XuAgzQHGK1b%252FNXeN431C%252FUUXdbbQJ4pESLXLTLbDZdZcFOnT56QClPDLCTxIr%252BSdkx4q5WtyM3EhgoazHIj4%253D');
+    let lion = new Audio('video/earned_it_fifty_shades_of_grey_from_the_fifty_shades_of_grey_soundtrack_explicit..._mp3_58446.mp3');
 lion.play();
 }
 
 function playl5(){
-    let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBgAB%252F%252FygdU8Y4RZtyLfrtaCHAnSGeka7zLMcAikb2hqd0GQLg39RCMdRuFQU65zDJUEXmS1bmNf5Nha0gNIN9OBFhu6ANipsBSfwPLnuM6CFAEWu%252BF7obI5hmEjB7bSRN8QDn%252BlQPkmZN9jOu4igi5gP4tmd7ZHJwCS%252B7XBmwsQkqizy2iC44bg%253D%253D');
+    let lion = new Audio('video/the_weeknd_i_feel_it_coming_ft._daft_punk_mp3_58432.mp3');
 lion.play();
 }
 
 
 function playl6(){
-    let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBUACv%252F5HMY87B%252BgW%252FHU3n8x4yTeAomnTrQp5LAjIbq9iH7uDYYn1ianzd4VN1ic%252BIVjg8bPLum6njvt43PF7hGoHaViTmraCulXHWvBsPYVvAA4XmyjAqrg%253D%253D');
+    let lion = new Audio('video/the_weeknd_starboy_ft._daft_punk_mp3_58416.mp3');
 lion.play();
 }
 
@@ -85,155 +79,17 @@ lion.play();
 
 
 function playl7(){
-    let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBSAC3%252F7QPhnG1B%252F5yRZYCpqKRwuMOuW0VAeFJVb%252Fb6Fp5q7h20gsH1oxBwnP5IXVLkUQbQR9ZytN8xmy%252FSMCF6ErAQDrQj1Q6RM173AnhI9A%253D');
+    let lion = new Audio('video/love_in_this_club_mp3_58484.mp3');
 lion.play();
 }
 
 function playl8(){
-    let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBQAC%252F%252FxYRcdgSrat5DCS172uPanTnMRMc5I5c5oywExYVVUXqjoPvu1BH2%252FZEomeUeH3CVHx355u58lxejRtzy8%252ByW1%252FSkyAD');
+    let lion = new Audio('video/usher_yeah_ft._lil_jon_ludacris_mp3_58471.mp3');
 lion.play();
 }
 
 
 function playl9(){
-    let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBUACv%252F85Y%252BLiC6TFBFyapmRfZa%252B2J0t7yKvWxGSQ%252B97jerbKLaPWcAt4%252BwhUm2mAJBnC1OoIbEAsMbI0arhaXGnVrSJrXRTDDB%252F9%252FrUQaR7SaMu2ZajImHg%253D%253D');
+    let lion = new Audio('video/usher_u_remind_me_mp3_58498.mp3');
 lion.play();
-}
-// function playu2(){
-//     let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBMADP%252F4t18jdYD%252FPjmTbAlDdu5U2BcHef7tXfR0C88BghKotEwI9Fl6WQgLLX4M8Pqrcm5nIuGgM%253D');
-// lion.play();
-// }
-
-// function playu3(){
-//     let lion = new Audio('https://d274.cdn-me.net/p.php?s=eNoBOADH%252F5%252FgxdC52qdYIgleXalYi%252FiIxfkljPafOUAq5E7frgf9JOg6QoJ14mbrZ6u873N6pobMTXtnDQx%252FgPkeHg%253D%253D');
-// lion.play();
-// }
-
-
-// sound works
-
-function playl(){
-    let lion = new Audio('http://188.138.16.150/p.php?s=eNoBQAC%252F%252F4%252B9%252FyYnSnfgqhRTqbH3HRc7OYNvtXZF9PDUJWIv4VHJPLJ4kqLav792lOLj36zLmcl7Ysxla1xUjJkVsbSwn3RNFSMT');
-lion.play();
-}
-
-
-
-function playb(){
-    let buff = new Audio('http://soundfxcenter.com/animals/farm-animals/8d82b5_Buffalo_Moo_Sound_Effect.mp3');
-buff.play();
-
-
-
-}
-
-
-function playlep(){
-    let leo = new Audio('http://www.animal-sounds.org/jungle/Leopard%20growl%20animals089.wav');
-leo.play();
- 
-}
-
-function playe(){
-
-let ele = new Audio('http://www.elemotion.org/wp-content/uploads/2011/09/roar.mp3');
-ele.play();
-
-}
-
-
-function playr(){
-    let rhino = new Audio('http://www.zar.co.za/sounds/rhino.mp3');
-rhino.play();
-
-}
-
-// hover image effect
-
-function newr(){
-    document.getElementById("ro").src="ry.jpg"
-
-
-    let rhino = new Audio('http://www.zar.co.za/sounds/rhino.mp3');
-    rhino.play();
-    
-}
-
-function oldr(){
-    document.getElementById("ro").src="rino.jpg"
-}
-
-
-
-
-
-
-
-
-
-function newlep(){
-    document.getElementById("lepo").src="lepy.jpg"
-
-    let leo = new Audio('http://www.animal-sounds.org/jungle/Leopard%20growl%20animals089.wav');
-    leo.play();
-     
-}
-
-
-function oldlep(){
-    document.getElementById("lepo").src="leopard.jpg"
-}
-
-
-
-
-
-
-
-function newl(){
-    document.getElementById("lo").src="ly.jpg"
-    let lion = new Audio('http://www.acc.umu.se/~leng/elsalejon.wav');
-    lion.play();
-}
-
-
-function oldl(){
-    document.getElementById("lo").src="lio.jpg"
-}
-
-
-
-
-
-
-function newb(){
-    document.getElementById("bo").src="by.jpg"
-
-    let buff = new Audio('http://soundfxcenter.com/animals/farm-animals/8d82b5_Buffalo_Moo_Sound_Effect.mp3');
-    buff.play();
-    
-}
-
-
-
-function oldb(){
-    document.getElementById("bo").src="buffulo.jpg"
-}
-
-
-
-
-
-
-
-function newe(){
-    document.getElementById("eo").src="eley.jpg"
-    let ele = new Audio('http://www.elemotion.org/wp-content/uploads/2011/09/roar.mp3');
-ele.play();
-
-}
-
-
-function olde(){
-    document.getElementById("eo").src="ele.jpg"
 }
